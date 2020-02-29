@@ -1,9 +1,9 @@
 node-red-ping 
 ====
 
-This flows measures every 5 sec the ping times of several hosts and shows it in charts in the ping tab of the node-red UI dashboard.
+This flows measures every 5 sec the ping times of several hosts and shows it in the Node-RED UI dashboard (see [screenshot dashboard](#screenshot-of-the-node-red-dashboard))
 
-Moreover the ping times are also stored in an influx database which can be visualized in a graphana dashboard.
+Moreover these ping times are also stored in an influx database which can be visualized in a graphana dashboard.
 
 ## Screenshot of the node-red dashboard
 
