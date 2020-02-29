@@ -1,6 +1,6 @@
 {
     "name": "ping",
-    "description": "A Node-RED Project showing ping response times in chart and storing them in influxdb",
+    "description": "A Node-RED Project showing ping response times of several hosts in a chart and storing them in an influx database.",
     "version": "0.0.1",
     "dependencies": {
         "node-red-dashboard": "2.19.4",
